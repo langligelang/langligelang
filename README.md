@@ -2,7 +2,7 @@
 About Me
 - 🐼 前奇安信某实验室成员
 - 🐱 擅长代码审计 java/go/python
-- 🐶 CVE-2021-37580 CVE-2020-1947 CVE-2020-11974 CVE-2020-1952 
+- 🐶 CVE-2020-1947(Apache ShardingShpere RCE) CVE-2020-1952(Apache IotDb RCE) CVE-2020-11974(Apache DolphinScheduler RCE) CVE-2021-37580(Apache ShenYu Auth Bypass) 
 - 🐻 目前就职于甲方安全建设与安全开发
 - 🐒 时不时写点文章或者一些工具
 
